@@ -1,7 +1,6 @@
 # Dr. Maya Reynolds - Therapy Website Redesign
 
 ![Project Preview](/public/office1.jpg) 
-*(Note: Replace this path with a screenshot of your hero section if possible, otherwise delete this line)*
 
 ## 🚀 Live Demo
 **[View Live Site](https://therapy-site.vercel.app)** *(Replace with your actual Vercel link)*
