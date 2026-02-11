@@ -58,8 +58,7 @@ Instead of the original template's "soft lilac" theme, I developed a custom desi
 ---
 ## 📂 Getting started
 npm run dev
-
----
+```
 ## ✅ Assignment Checklist Compliance
 
 ### Part 1: Clone Accuracy
