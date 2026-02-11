@@ -3,7 +3,7 @@
 ![Project Preview](/public/office1.jpg) 
 
 ## 🚀 Live Demo
-**[View Live Site](https://therapy-site.vercel.app)** *(Replace with your actual Vercel link)*
+**[View Live Site](https://therapy-site-three.vercel.app/)** 
 
 ---
 
